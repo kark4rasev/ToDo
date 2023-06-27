@@ -1,0 +1,29 @@
+body {
+  background-color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 100%;
+  max-width: 631px;
+}
+
+.title {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 46px;
+  color: #000000;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.titleBlock {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
