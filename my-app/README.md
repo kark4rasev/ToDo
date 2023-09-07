@@ -19,7 +19,7 @@
 прокидываем айдишник в нашем объекте
 Далее прокидываем наш todoItems
 
-Для пользования проектом необходимо запустить его в браузере с помощью VS Code с использованием команды в терминале npm start
+Настройка проекта npm install, npm start
 
 
 Project name: #ToDo
@@ -33,5 +33,5 @@ declaring a constructor to create an object from the class, using super and desc
 , we hang an event handler saying that the value has changed the function takes some value if that that has changed, then we change the state of the object that is inside the array, Then we change the state state with the arrow function now when you click done, the marked item goes to the end of the list, Create activeTasks and completedTasks if something has changed in the complement to falls, there will be activeTasks if something has changed in the complement to true, there will be completedTasks with with the help of spread operators, we form a new finalTasks object, a variable in which the completed tasks will be stored, Then we run through our array with a map and throw the data into the tuduaytem component and output them, Then we throw the values of description completed, we throw the ID in our object
 Next, we throw our TodoItems
 
-To use the project, you need to launch it in the browser using VS Code using the command in the npm start terminal
+Project setup npm install, npm start
 
